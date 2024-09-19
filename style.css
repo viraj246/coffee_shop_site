@@ -10,9 +10,9 @@
 
 }
 :root{
-    --main-color: rgb(6, 73, 3); 
+    --main-color: rgb(44, 196, 62); 
     --secondary-color: white;
-    --text-color: rgb(88, 41, 3);
+    --text-color: rgb(144, 68, 6);
     --bg-color:#fff;
 
     --box-shadow:2px 2px 10px 14px rgb(14 55 54 / 15%);  
